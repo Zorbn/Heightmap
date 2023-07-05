@@ -1,0 +1,7 @@
+BasedOnStyle: Microsoft
+AlignAfterOpenBracket: DontAlign
+AccessModifierOffset: 0
+IndentCaseLabels: true
+BreakBeforeBraces: Attach
+DerivePointerAlignment: false
+PointerAlignment: Right
